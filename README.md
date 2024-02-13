@@ -131,7 +131,7 @@ As fontes utilizadas no projeto foram:
 
 <h2 id="demo">💻 Demonstração</h2>
 
-Você pode acessar ao resultado final do projeto [clicando aqui](https://micheleambrosio.github.io/hbomax/).
+Você pode acessar ao resultado final do projeto [clicando aqui](https://nei-junio-17.github.io/hbomax/).
 
 
 ## ✒️ Autor
