@@ -16,8 +16,7 @@
 
 ## 📎 Sumário
 
-- [📌
- Features](#features)
+- [📌 Features](#features)
 - [📦 Temas abordados](#topics)
 - [🏆 Desafio](#challenges)
 - [💻 Demonstração](#demo)
