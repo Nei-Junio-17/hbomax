@@ -137,7 +137,7 @@ Você pode acessar ao resultado final do projeto [clicando aqui](https://michele
 ### Nei Junio Nogueira Gomes
 <p>
     <p>
-    &nbsp&nbsp&nbsp<a href="https://www.instagram.com/neijunio_17/">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/Nei-Junio-17">GitHub</a>&nbsp;|&nbsp;<a href="www.linkedin.com/in/nei-junio-nogueira-gomes">LinkedIn</a></p>
+    &nbsp&nbsp&nbsp<a href="https://www.instagram.com/neijunio_17/">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/NeiJunio">GitHub</a>&nbsp;|&nbsp;<a href="www.linkedin.com/in/nei-junio-nogueira-gomes">LinkedIn</a></p>
 </p>
 <p>
 
